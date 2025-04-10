@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+.container-header {
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://bc-user-uploads.brandcrowd.com/public/media-Production/0e523b9b-df39-4929-a861-701e45a7994a/9b31211d-c178-48d7-b391-1e295181e983");
+
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+.container-footer {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 80%;
+}
+
+.list-icons {
+    display: flex;
+    flex-direction: column;
+}
